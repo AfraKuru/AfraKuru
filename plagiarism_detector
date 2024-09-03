@@ -1,0 +1,20 @@
+#Import the SequenceMatcher class from the difflib module
+from difflib import SequenceMatcher
+
+#Open 'demo.txt' and 'demo2.txt' files in read mode.
+#'one_file' will refer to 'demo.txt', and 'two_file' will refer to 'demo2.txt'.
+with open('demo.txt') as one_file, open('demo2.txt') as two_file:
+
+    #Read the entire content of 'demo.txt' into the variable 'data_file1'.
+    data_file1 = one_file.read()
+
+    # Read the entire content of 'demo2.txt' into the variable 'data_file2'.
+    data_file2 = two_file.read()
+
+
+    #Useing SequenceMatcher to compare the two strings (file contents).
+    #The ratio() method returns a measure of the sequences' similarity as a float in the range [0,1].
+    matches = SequenceMatcher(None, data_file1, data_file2).ratio()
+
+    #Print out the similarity percentage between the two files.
+    print(f"The plagiarized content is {matches} % ")
