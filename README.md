@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfraKuru
 - 👀 I’m interested in web design and developing
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning sql
 - 💞️ I’m looking to collaborate on projects!
 - 📫 DM me on insta @deepinsleeping
 - 😄 Pronouns: she/her
