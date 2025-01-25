@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects!
 - 📫 DM me on insta @deepinsleeping
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i love reading and crocheting! <3
+- ⚡ Fun fact: i love reading and traveling! <3
 
 <!---
 AfraKuru/AfraKuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
