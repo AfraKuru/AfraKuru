@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design and developing
 - 🌱 I’m currently learning sql
 - 💞️ I’m looking to collaborate on projects!
-- 📫 DM me on insta @deepinsleeping
+- 📫 DM me on insta @kafrakuru
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love reading and traveling! <3
 
