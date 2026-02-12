@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfraKuru
 - 👀 I’m interested in web design and developing
-- 🌱 I’m currently learning sql
+- 🌱 I’m a Senior majoring in CS with a SWE minor 
 - 💞️ I’m looking to collaborate on projects!
 - 📫 DM me on insta @kafrakuru
 - 😄 Pronouns: she/her
